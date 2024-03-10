@@ -19,7 +19,10 @@ This project adheres to the Python PEP 8 style guide to ensure the readability a
 
 ## Screenshots
 
-![Ludo Game Interface](#) *Screenshot of the game interface here*
+![image](https://github.com/elikem1z/Ludo-Game/assets/109632084/8b622ffc-e28b-4180-990d-64fb9e767961)
+
+![image](https://github.com/elikem1z/Ludo-Game/assets/109632084/4368eae5-0970-4392-943c-830a932f0c5a)
+
 
 ## Tech/Framework Used
 
